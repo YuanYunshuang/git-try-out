@@ -3,3 +3,4 @@ This file is added remotely in github.
 What if I edit the same file in both remote and local repo? Some new added content is the same, but some has collisions
 like this line:  new collision line added remotely
 remote: add new line
+remote: add new line
